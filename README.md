@@ -10,8 +10,7 @@ Sklearn
 ## Data
 Download the MNIST dataset. It contains train.csv and test.csv. In the network, the data is converted into 28*28 as input.        
 
-## Network 
-It is a simple CNN network.                 
+## Network                             
 ![Image](https://github.com/Yunying-Chen/Kaggle_DigitRecognizer/blob/master/IMG/network.png)
 
 ## Train 
